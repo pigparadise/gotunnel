@@ -1,0 +1,11 @@
+# Build artifacts
+/bin/
+*.exe
+
+# Test artifacts
+*.test
+*.out
+
+# Go workspace
+go.work
+go.work.sum
